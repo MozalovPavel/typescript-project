@@ -1,0 +1,8 @@
+.footer
+{
+    height: 60px;
+
+    background: #eee;
+
+    flex: 0 0 auto;
+}
